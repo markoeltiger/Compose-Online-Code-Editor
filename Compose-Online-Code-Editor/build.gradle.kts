@@ -7,7 +7,7 @@ plugins {
     id("io.ktor.plugin") version "2.3.9"
 }
 
-group = "com.ComposeOnlineCodeEditor"
+group = "com.tComposeOnlineCodeEditor"
 version = "0.0.1"
 
 application {
